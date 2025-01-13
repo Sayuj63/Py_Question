@@ -1,0 +1,4 @@
+apple: A fruit that is typically round, red or green, and sweet.
+banana: A long, curved fruit with a yellow skin.
+cat: A small, domesticated carnivorous mammal.
+dog: A domesticated carnivorous mammal that is a popular pet.
