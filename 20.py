@@ -1,4 +1,5 @@
 num = int(input("Enter a positive integer: "))
-print("Palindrome" 
-      if str(num) == str(num)[::-1] 
-      else "Not a Palindrome")
+if str(num) == str(num)[::-1]:
+    print("Palindrome") 
+else:
+    print("Not a Palindrome")
